@@ -313,5 +313,25 @@
         }
       ]
     }
+  ],
+  "consomateurs":[
+    {
+      "nom":"Jean Michel",
+      "Appareils":[
+        {
+          "nom":"Réfrigérateur Hisense",
+          "consommation":"208 kWh/an",
+          "image":"../assets/img/capture/frigo1.PNG"
+        },{
+          "nom":"Micro ondes Listo MOM L8",
+          "consommation":"90 kWh/an",
+          "image":"../assets/img/capture/microOndes.PNG"
+        },{
+          "nom":"TV LED Tcl",
+          "consommation":"90 kWh/an",
+          "image":"../assets/img/capture/TV.PNG"
+        }
+      ]
+    }
   ]
 }
